@@ -4,7 +4,7 @@
 4. Com o python instalado, copie e cole a pasta AnyDesk-reset-main para seu disco local C:/
 5. Agora é necessário abrir o diretório no cmd com 'cd /d "C:\AnyDesk-reset-main"'
 7. Executar o comando "pip install -r Requirements.txt"
-6. Executar o comando "python MK_AdeskUtils"
+6. Executar o comando "python PMB_AdeskReset"
 7. Escolha a opção 1 do programa
 8. Agora escolha as opções desejadas, recomenda-se usar apenas a opção 1, deixar a opção 3 em caso de não funcionar.
 9. Aperte 5 para sair.

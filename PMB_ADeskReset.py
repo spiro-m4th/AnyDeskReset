@@ -96,14 +96,14 @@ def ask_yes_no(question_text):
 def print_banner():
     clear_screen()
     try:
-        ascii_art = pyfiglet.figlet_format("AnyDesk Utils", font="slant")
-        print(Style.BRIGHT + Fore.MAGENTA + ascii_art)
+        ascii_art = pyfiglet.figlet_format("PMB AnyDesk Reset", font="slant")
+        print(Style.BRIGHT + Fore.GREEN + ascii_art)
     except:
-        print(Style.BRIGHT + Fore.MAGENTA + "--- AnyDesk Utils ---\n")
+        print(Style.BRIGHT + Fore.MAGENTA + "---PMB AnyDesk Reset ---\n")
 
     print(Style.BRIGHT + Fore.CYAN + "Criado por: spiro-m4th | Versão PT-BR")
     print(Style.BRIGHT + Fore.YELLOW + "ATENÇÃO: Execute como Administrador para funcionar corretamente.")
-    print(Style.BRIGHT + Fore.WHITE + "=" * 60 + "\n")
+    print(Style.BRIGHT + Fore.MAGENTA + "=" * 60 + "\n")
 
 
 # --- Funções do AnyDesk ---
