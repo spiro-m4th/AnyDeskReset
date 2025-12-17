@@ -1,0 +1,10 @@
+1. Abrir o cmd como Administrador
+2. Verificar se o pc tem o python instalado (executar o comando "py --version" ou "python --version" no cmd)
+3. (caso o python não tiver instalado) Executar o comando "winget install Python.Python.3" no cmd
+4. Com o python instalado, copie e cole a pasta AnyDesk-reset-main para seu disco local C:/
+5. Agora é necessário abrir o diretório no cmd com 'cd /d "C:\AnyDesk-reset-main"'
+7. Executar o comando "pip install -r Requirements.txt"
+6. Executar o comando "python MK_AdeskUtils"
+7. Escolha a opção 1 do programa
+8. Agora escolha as opções desejadas, recomenda-se usar apenas a opção 1, deixar a opção 3 em caso de não funcionar.
+9. Aperte 5 para sair.
